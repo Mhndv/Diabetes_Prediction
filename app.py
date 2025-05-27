@@ -5,7 +5,7 @@ import joblib
 
 # Load trained model and scaler
 model = tf.keras.models.load_model("model_diabetes_2.h5")
-scaler = joblib.load("scaler_diabeter.pkl")
+scaler = joblib.load("scaler_diabetes.pkl")
 
 # Set page config
 st.set_page_config(page_title="Diabetes Prediction", layout="centered")
