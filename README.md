@@ -2,6 +2,7 @@
 
 This project uses a Multi-Layer Perceptron (MLP) neural network built with TensorFlow/Keras to predict the likelihood of diabetes based on patient diagnostic data. It also includes a Streamlit web app for interactive predictions.
 
+## Try It: https://diabetesprediction-mlp.streamlit.app/
 ---
 
 ## 📊 Dataset
